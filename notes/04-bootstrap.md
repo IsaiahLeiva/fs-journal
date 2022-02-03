@@ -12,3 +12,8 @@ adjustments can be made via 'p-2 and px-4', these adjust the button itself.
 
 'col-sm-8' will dictate the size of a column when it enters the mobile version.
 
+Qs:
+-What does debug enable us to do?
+-Regurgitate what bootstrap is to gather a full understanding of it. 
+
+i tags will allow you to pull an image or icon, although you will need to create a class for it. For example 'class="mdi mdi-muffin"
