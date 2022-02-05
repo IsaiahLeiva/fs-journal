@@ -38,35 +38,35 @@ cascading style sheets
 ```
 <!-- enter you answer in the space below -->
 ```
-
+In the example above, 'h1' is the selector, and 'main-title' is the class that it's specifically grabbing, the declaration that assigns the value is the 'color:rgba' within the curly brackets.
 ```
 
 **7.** What property would you change if you wanted to make a font **Bold**?
 <!-- enter you answer in the space below -->
 ```
-
+You can add a <b> tag to do this. 
 ```
 
 **8.** In what tag does the majority of your code belong?
 <!-- enter you answer in the space below -->
 ```
-
+<body> 
 ```
 
 **9.** What three tags can be used to make lists (not list items)?
 <!-- enter you answer in the space below -->
 ```
-
+<ul>, <ol>, <dl>
 ```
 
 **10.** Define the display `:flex property:`
 <!-- enter you answer in the space below -->
 ```
-
+This is supposed to set the size of the flex attribute. 
 ```
 
 **11.** What `CSS` properties affect the size of a box model?
 <!-- enter you answer in the space below -->
 ```
-
+justify-content-stretch
 ```
