@@ -45,4 +45,6 @@ bool == true //are these equal?
 bool != true //are these not equal?
 
 && = means "and" in a syntax
-|| = means "or" in a syntax 
+|| = means "or" in a syntax
+
+
