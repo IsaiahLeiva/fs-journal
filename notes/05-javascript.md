@@ -48,3 +48,4 @@ bool != true //are these not equal?
 || = means "or" in a syntax
 
 
+objects are collections of data that are stored by a key or a value pair. 
