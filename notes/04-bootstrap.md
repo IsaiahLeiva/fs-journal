@@ -37,3 +37,11 @@ Stay fresh on Javascript. Get comfortable with the errors. Debugging skills are 
 Learn utility classes for bootstrap.
 
 Add a comment anchor for stuff that you were trying to work on but couldn't get. 
+
+<!-- ANCHOR 2/9/22 Notes for Improvement -->
+
+Practice screen-size infixes "col-id" "col-sm"
+
+Basically go over the bootstrap elements of changing elements from fullscreen to mobile. 
+
+Go over websites to clone and start practicing them. 
