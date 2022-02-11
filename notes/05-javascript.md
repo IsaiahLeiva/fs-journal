@@ -50,3 +50,11 @@ bool != true //are these not equal?
 
 objects are collections of data that are stored by a key or a value pair. 
 
+//return means full stop
+
+//within an array for ex:
+
+= { 
+    mick: (<- Mick right here is 'array item')
+}
+
