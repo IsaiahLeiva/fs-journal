@@ -58,3 +58,22 @@ objects are collections of data that are stored by a key or a value pair.
     mick: (<- Mick right here is 'array item')
 }
 
+Notes 2/14/22:
+
+Elivs Operator checks to see if a property is defined before it runs. 
+
+-Class: is a blueprint of an object. 
+
+-Method: is a function that exists on a class. 
+
+-Entry Point: 
+
+-MVC: Model View Controller (service)
+
+Controller.js page works like a video game controller and is handled with the input of the user. 
+The page will take a 'function' and then just passes it to another JS file. The page is very lazy. 
+The reason why we have it in the first place is encapsulation. We use it so we have reusable code and group together similar code.
+
+In the MCV there will typically be 5 pages that hold our data and make our code run.
+
+Index, which holds the HTML code for us. Then the Controller.js page which holds the code that holds everything. The service page will then run the actual code and the model page holds the classes with the properties that make up the classes. Lastly, the proxyState, is the place where we hold all of our data. 
