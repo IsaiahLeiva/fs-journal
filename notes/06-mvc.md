@@ -49,3 +49,19 @@ import other pages by simply typing out the other classes
     -createPizza() in controller & service
 -Delete Data
     -deletePizza(id) in controller & service
+
+
+For the MCV:
+
+-Start with the controllers for each parameter
+-Then create the value sheets for each parameter (for example Pizza.js lives in Models)
+-Then add those values to the appstate
+-Then work on the value service sheets
+-ProxyState = AppState (The AppState page does not get duplicated)
+
+First things first inside a function:
+-let template = '' (to make it easier to read)
+
+-Helpful tip: Add ['PizzaController', createPizza] in your console log to see where the tool is functioning from. 
+
+-Future checkpoints will have the "title" tag as a requirement for clickable icons.
