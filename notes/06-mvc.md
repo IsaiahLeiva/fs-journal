@@ -67,3 +67,14 @@ First things first inside a function:
 -Future checkpoints will have the "title" tag as a requirement for clickable icons.
 
 2/21/22:
+API: Application programming interface
+'Acts like the menu of a restaurant'
+
+Going forward all methods for our controllers need to have "try" and "catch". 
+
+console.error(error) means if this error happens then throw it in the console. 
+
+'async' tells js that at some point you will use that specified function
+
+You should always try to throw an error message to anyone who is attempting to run a method but functions improperly. 
+
