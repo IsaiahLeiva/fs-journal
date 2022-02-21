@@ -78,3 +78,4 @@ console.error(error) means if this error happens then throw it in the console.
 
 You should always try to throw an error message to anyone who is attempting to run a method but functions improperly. 
 
+Download JSON.vue for Chrome 
