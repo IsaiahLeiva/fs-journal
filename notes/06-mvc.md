@@ -65,3 +65,5 @@ First things first inside a function:
 -Helpful tip: Add ['PizzaController', createPizza] in your console log to see where the tool is functioning from. 
 
 -Future checkpoints will have the "title" tag as a requirement for clickable icons.
+
+2/21/22:
