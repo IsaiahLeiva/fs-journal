@@ -45,3 +45,5 @@ Practice screen-size infixes "col-id" "col-sm"
 Basically go over the bootstrap elements of changing elements from fullscreen to mobile. 
 
 Go over websites to clone and start practicing them. 
+
+'Checked' will mark a checkbox that you have for your element. 

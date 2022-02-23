@@ -87,3 +87,12 @@ AxiosService contains the export class that holds the api.
 CRUD: Create, Read, Update, and Delete
 
 BCW Serve 8081 to make a second 
+
+2/23/22:
+You cannot make a constructor asynchronus. It only functions in the traditional method that it's meant for. 
+
+'ProxyState.on' is the event listener and will only apply when it gets the right response. 
+
+'trycatch' auto fill-in
+
+
