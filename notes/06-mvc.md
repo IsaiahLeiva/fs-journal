@@ -79,3 +79,11 @@ console.error(error) means if this error happens then throw it in the console.
 You should always try to throw an error message to anyone who is attempting to run a method but functions improperly. 
 
 Download JSON.vue for Chrome 
+
+
+2/22/22:
+AxiosService contains the export class that holds the api. 
+
+CRUD: Create, Read, Update, and Delete
+
+BCW Serve 8081 to make a second 
