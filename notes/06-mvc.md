@@ -95,4 +95,11 @@ You cannot make a constructor asynchronus. It only functions in the traditional 
 
 'trycatch' auto fill-in
 
+2/24/22:
+Mick is making the controllers first and for each variable, then moving on to the export classes with their constructors. Then he's making the services sheets with their classes and exporting the class. Afterwards he goes to main and imports those classes. 
+
+When you are making a value sheet just set up a barebones model and come back to replace them with the html templates later. 
+
+Move on to adding the values into the appstate. Then export on the axios service page all the APIs.
+
 
