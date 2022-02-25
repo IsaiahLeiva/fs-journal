@@ -102,4 +102,6 @@ When you are making a value sheet just set up a barebones model and come back to
 
 Move on to adding the values into the appstate. Then export on the axios service page all the APIs.
 
+For controller naming schemes it's much better to give a long name than to do a short name that doesn't make any sense. 
 
+Ctrl + . to move an export class to a new profile. 
