@@ -107,3 +107,7 @@ For controller naming schemes it's much better to give a long name than to do a 
 Ctrl + . to move an export class to a new profile. Cursor must be on the name of the class in order to export it to a new model or services page. 
 
 F2 while highlighting a method that you are trying to correct will change then name on other pages too.
+
+While debugging you can add more time to the pop sheet's form to be able to see error messages for longer.
+
+Getting data to render to the screen is the first and most important thing to do.
