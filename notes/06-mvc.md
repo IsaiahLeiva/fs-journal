@@ -104,4 +104,6 @@ Move on to adding the values into the appstate. Then export on the axios service
 
 For controller naming schemes it's much better to give a long name than to do a short name that doesn't make any sense. 
 
-Ctrl + . to move an export class to a new profile. 
+Ctrl + . to move an export class to a new profile. Cursor must be on the name of the class in order to export it to a new model or services page. 
+
+F2 while highlighting a method that you are trying to correct will change then name on other pages too.
