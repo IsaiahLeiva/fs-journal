@@ -16,3 +16,21 @@ package.json brings in all the different services for your code.
 
 Schema is a tool that creates models for the db.
 
+3/2/22:
+When we reference an ObjectId, we're specifically referencing something in the object. 
+For example:
+'creatorId': is supposed to ref the 'account' in our example today. 
+
+'Virtuals' are properties that come back to the object but are not saved to the object. 
+
+//NOTE: order of creating your backend:
+1. Create schema
+2. Create controller
+3. Create constructor in the controller
+4. Create the getall/create in your controller
+5. Create the service page
+6. Fill in dbcontext with the empty array
+
+
+
+
