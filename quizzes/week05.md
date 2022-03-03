@@ -26,7 +26,7 @@ PUT/DELETE
 **5.** In a/an _______ coding model, when you call a function, it returns only when the action has finished and stops your program for the time the action takes. Likewise in a/an _______ coding model, multiple things are allowed to happen at one time. When you perform an action, your program continues to run.  Fill in the blanks.
 <!-- enter you answer in the space below -->
 ```
-
+Asynchronus/Synchronus
 ```
 
 **6.** Fill in the missing piece of this snippet of code.
@@ -46,7 +46,7 @@ Middleware is software that lies between an OS and its apps.
 **8.** The ______ pipeline delivers information from the client while the ______ pipeline returns it. Fill in the blanks. 
 <!-- enter you answer in the space below -->
 ```
-
+Request/Response
 ```
 **9.** 
 Demonstrate the pattern that is used to include a request query with the client's `HTTP` request providing the property `tag` and the value `winter`.

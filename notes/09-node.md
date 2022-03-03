@@ -32,5 +32,7 @@ For example:
 6. Fill in dbcontext with the empty array
 
 
-
+3/3/22:
+-Find a way to add comments for the posts. (We are not doing subcomments)
+-
 
