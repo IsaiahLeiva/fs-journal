@@ -11,3 +11,6 @@ Listeners will be created for us automatically.
 Controllers will be done away with and we will have components instead now.
 
 You can create small localized components and inject them in together with Vue. 
+
+Router-view is referring to the router to tell which page to load. 
+
