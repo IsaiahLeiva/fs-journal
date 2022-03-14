@@ -14,3 +14,4 @@ You can create small localized components and inject them in together with Vue.
 
 Router-view is referring to the router to tell which page to load. 
 
+
